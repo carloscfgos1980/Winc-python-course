@@ -1,0 +1,3 @@
+phone 25 20000
+laptop 10 15000
+headphones 50 5000
